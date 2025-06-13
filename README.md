@@ -1,0 +1,2 @@
+# BetaGaGSpawner
+A beta version
